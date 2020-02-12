@@ -1,0 +1,70 @@
+body {
+    background-color: white;
+}
+.header {
+    width: 98vw;
+    height: 25vh;
+    border: solid black 10px;
+    display: inline-block;
+}
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+background-color:blue;
+display: inline-block;
+margin-left: 300px;
+margin-top: 25px;
+}
+.square {
+    width: 100px;
+    height: 150px;
+    background-color: orange;
+    display: inline-block;
+    float: left;
+    margin-top: 40px;
+    margin-left: 25px;
+}
+.square2 {
+    width: 300px;
+    height: 200px;
+    background-color: purple;
+    display: inline-block;
+    float: left;
+    margin-top: 25px;
+    margin-left: 100px;
+
+}
+.box1 {
+    width: 95vw;
+    height: 25vh;
+    border: dotted black 8px;
+    margin: 25px;
+}
+.insidebox {
+    width: 92vw;
+    height: 20vh;
+    background-color: rosybrown;
+    box-shadow: 5px 10px;
+    display: inline-block;
+    margin: 25px;
+}
+.box2 {
+    width: 50vw;
+    height: 30vh;
+    border: solid black 1px;
+    display: inline-block;
+    box-shadow: 5px 10px;
+    margin-left: 450px;
+
+}
+.words {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    letter-spacing: 8px;
+
+
+}
